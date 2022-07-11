@@ -1,4 +1,4 @@
-<a href="https://discord.com/invite/6xVw8yP7">
+<a href="https://discord.com/invite/EzTgwgGkxz">
   <img src="https://cdn.discordapp.com/attachments/878513200444870667/970135330126704650/reddybanner.png">
 </a>
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
